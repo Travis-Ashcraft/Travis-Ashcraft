@@ -29,7 +29,6 @@ Welcome to my test GitHub profile! This repo is special because its `README.md` 
 
 ### 📫 How to Reach Me
 - Email: travis.ashcraft@tstc.edu
-- Discord: TravisAshcraft#0001
 
 ### ⚡ Fun Fact
 I automate everything — even my README updates are *almost* scripted 😉
